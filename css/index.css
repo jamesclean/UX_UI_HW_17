@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+    html,
+    body {
+    width: 100%;
+    height: 100%;
+}
+
+.inline-block {
+    display:inline-block;
+    vertical-align:top;
+}
+.logo{
+    width:23%;
+    padding: 1%;
+    text-align: center;
+}
+nav{
+    width:73%;
+    padding:1%;
+}
+.ul{
+    width:50%;
+    margin-left:auto;
+}
+
+footer ul{
+    display:inline-block;
+    vertical-align:top;
+    padding:15px;
+}
+.heroImg{
+    height:600px;
+    padding:25px;
+}
+footer{
+    background-color:#373738;
+    padding-left:23%;
+    color:white;
+}
+.blue {
+    background-color: blue;
+    width: 100%;
+    height: 100%;
+}
+.ln {
+    Border : 1px solid #424242;
+}
+.accent {
+    color:lightpink;
+}
